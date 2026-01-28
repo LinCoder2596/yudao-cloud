@@ -14,6 +14,10 @@
  Date: 26/11/2025 22:43:12
 */
 
+create database if not exists `ruoyi-vue-pro`;
+
+use `ruoyi-vue-pro`;
+
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
