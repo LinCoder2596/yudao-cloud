@@ -73,3 +73,7 @@ functions/mock
 screenshot
 .firebase
 sessionStore
+
+docker/logs
+docker/mysql
+docker/redis
